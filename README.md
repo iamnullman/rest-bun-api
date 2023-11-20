@@ -1,4 +1,4 @@
-# api.getbio.me
+# rest bun api - a bun project
 
 To install dependencies:
 
